@@ -1,0 +1,29 @@
+p{color:darkblue}. +グルコスの歴史コース+
+| 1曲目 | The Beginning | SIMPLE |
+| 2曲目 | Groove Player | NORMAL |
+| 3曲目 | Play merrily NEO | HARD |
+
+p{color:darkblue}. +▽▲▽コース+
+| 1曲目 | Agent Angels | SIMPLE |
+| 2曲目 | Black Moon Sympathy | NORMAL |
+| 3曲目 | It's a pit world | HARD |
+
+p{color:darkblue}. +闇の譜面(過去形)コース+
+| 1曲目 | カノン | SIMPLE |
+| 2曲目 | つけまつける | NORMAL |
+| 3曲目 | 夢現 | HARD |
+
+p{color:darkblue}. +MSSPコース+
+| 1曲目 | M.S.S.Planet | SIMPLE |
+| 2曲目 | THE BLUE | NORMAL |
+| 3曲目 | CELESTIAL | HARD |
+
+p{color:darkblue}. +東方小塩産コース+
+| 1曲目 | 東方不死鳥 | SIMPLE |
+| 2曲目 | 東方三楽祭 | NORMAL |
+| 3曲目 | 東方音銃夢 | HARD |
+
+p{color:darkblue}. +魔法少女コース+
+| 1曲目 | コネクト ==-TV MIX-== | SIMPLE |
+| 2曲目 | 魔法少女幸福理論 | NORMAL |
+| 3曲目 | ETERNAL BLAZE | HARD |
