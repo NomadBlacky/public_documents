@@ -32,8 +32,8 @@ p{color:darkblue}. +闇の譜面(過去形)コース+
 
 p{color:darkblue}. +MSSPコース+
 | 1曲目 | M.S.S.Planet | SIMPLE |
-| 2曲目 | THE BLUE | NORMAL |
-| 3曲目 | CELESTIAL | HARD |
+| 2曲目 | M.S.S.Phantom | NORMAL |
+| 3曲目 | THE BLUE | HARD |
 
 p{color:darkblue}. +東方小塩産コース+
 | 1曲目 | 東方不死鳥 | SIMPLE |
