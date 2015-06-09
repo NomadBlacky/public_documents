@@ -1,106 +1,127 @@
 h2. 予選ラウンド課題曲
 
 p{color:darkblue}. +グルコスの歴史コース+
+
 | 1曲目 | The Beginning |
 | 2曲目 | Groove Player |
 | 3曲目 | Play merrily NEO |
 
 p{color:darkblue}. +▽▲▽コース+
+
 | 1曲目 | Agent Angels |
 | 2曲目 | Black Moon Sympathy |
 | 3曲目 | It's a pit world |
 
 p{color:darkblue}. +闇の譜面(過去形)コース+
-| 1曲目 | カノン |
+
 | 2曲目 | つけまつける |
+| 1曲目 | カノン |
 | 3曲目 | 夢現 |
 
 p{color:darkblue}. +MSSPコース+
+
 | 1曲目 | M.S.S.Planet |
 | 2曲目 | THE BLUE |
 | 3曲目 | THE WORLDS |
 
 p{color:darkblue}. +東方小塩産コース+
+
 | 1曲目 | 東方不死鳥 |
 | 2曲目 | 東方散楽祭 |
 | 3曲目 | 東方音銃夢 |
 
 p{color:darkblue}. +魔法少女コース+
+
 | 1曲目 | コネクト ==-TV MIX-== |
 | 2曲目 | 魔法少女幸福理論 |
 | 3曲目 | ETERNAL BLAZE |
 
 p{color:darkblue}. +Another Infinityコース+
+
 | 1曲目 | My Babe Bee |
 | 2曲目 | Crystal tears |
 | 3曲目 | Jupiter II Europa |
 
 p{color:darkblue}. +月夜コース+
+
 | 1曲目 | ピアノ・ソナタ「月光」第三楽章 |
 | 2曲目 | Cruel Moon NuMIX |
 | 3曲目 | 如月アテンション |
 
 p{color:darkblue}. +ダラバーコース+
+
 | 1曲目 | Good-bye my earth |
 | 2曲目 | Hello 31337 |
 | 3曲目 | The world of spirit |
 
 p{color:darkblue}. +かにづくしコース+
+
 | 1曲目 | Invader Disco |
 | 2曲目 | SPACE INVADERS 2003 |
 | 3曲目 | Space Invaders Infinity Gene Medley |
 
 p{color:darkblue}. +グルコスのアイドルコース+
+
 | 1曲目 | Invader GIRL! |
 | 2曲目 | DX超性能フルメタル少女 |
 | 3曲目 | カンフーガール＝ロンメイ |
 
 p{color:darkblue}. +矢鴇つかささんコース+
+
 | 1曲目 | HB-axeleration |
 | 2曲目 | Geometric City ==-GC Remix-== |
 | 3曲目 | Starlight Vision (GC Mix) |
 
 p{color:darkblue}. +ちょっと早い真夏コース+
+
 | 1曲目 | 夏祭り |
 | 2曲目 | Maimai Sound Beats |
 | 3曲目 | サマータイムメモリー |
 
 p{color:darkblue}. +懐かしのIOSISフラッシュコース+
+
 | 1曲目 | 魔理沙は大変なものを盗んでいきました |
 | 2曲目 | チルノのパーフェクトさんすう教室 |
 | 3曲目 | 患部で止まってすぐ溶ける ～ 狂気の優曇華院 |
 
 p{color:darkblue}. +忍殺コース+
+
 | 1曲目 | 違法行為 |
 | 2曲目 | ならく |
 | 3曲目 | ラストガール |
 
 p{color:darkblue}. +コース+
+
 | 1曲目 |  |
 | 2曲目 |  |
 | 3曲目 |  |
 
 p{color:darkblue}. +コース+
+
 | 1曲目 |  |
 | 2曲目 |  |
 | 3曲目 |  |
 
 p{color:darkblue}. +コース+
+
 | 1曲目 |  |
 | 2曲目 |  |
 | 3曲目 |  |
 
 p{color:darkblue}. +コース+
+
 | 1曲目 |  |
 | 2曲目 |  |
 | 3曲目 |  |
 
 p{color:darkblue}. +コース+
+
 | 1曲目 |  |
 | 2曲目 |  |
 | 3曲目 |  |
 
 p{color:darkblue}. +コース+
+
 | 1曲目 |  |
 | 2曲目 |  |
 | 3曲目 |  |
@@ -108,17 +129,9 @@ p{color:darkblue}. +コース+
 
 h2. 決勝ラウンド課題曲
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+| 曲名 | 難易度 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
