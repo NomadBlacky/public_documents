@@ -1,3 +1,5 @@
+h2. 予選ラウンド課題曲
+
 p{color:darkblue}. +グルコスの歴史コース+
 | 1曲目 | The Beginning | SIMPLE |
 | 2曲目 | Groove Player | NORMAL |
@@ -16,7 +18,7 @@ p{color:darkblue}. +闇の譜面(過去形)コース+
 p{color:darkblue}. +MSSPコース+
 | 1曲目 | M.S.S.Planet | SIMPLE |
 | 2曲目 | THE BLUE | NORMAL |
-| 3曲目 | CELESTIAL | HARD |
+| 3曲目 | THE WORLDS | HARD |
 
 p{color:darkblue}. +東方小塩産コース+
 | 1曲目 | 東方不死鳥 | SIMPLE |
@@ -29,9 +31,9 @@ p{color:darkblue}. +魔法少女コース+
 | 3曲目 | ETERNAL BLAZE | HARD |
 
 p{color:darkblue}. +Another Infinityコース+
-| 1曲目 | Jupiter II Europa |  |
+| 1曲目 | My Babe Bee |  |
 | 2曲目 | Crystal tears |  |
-| 3曲目 | My Babe Bee |  |
+| 3曲目 | Jupiter II Europa |  |
 
 p{color:darkblue}. +月夜コース+
 | 1曲目 | ピアノ・ソナタ「月光」第三楽章 |  |
@@ -68,7 +70,50 @@ p{color:darkblue}. +懐かしのIOSISフラッシュコース+
 | 2曲目 | チルノのパーフェクトさんすう教室 |  |
 | 3曲目 | 患部で止まってすぐ溶ける ～ 狂気の優曇華院 |  |
 
+p{color:darkblue}. +忍殺コース+
+| 1曲目 | 違法行為 |  |
+| 2曲目 | ならく |  |
+| 3曲目 | ラストガール |  |
+
 p{color:darkblue}. +コース+
 | 1曲目 |  |  |
 | 2曲目 |  |  |
 | 3曲目 |  |  |
+
+p{color:darkblue}. +コース+
+| 1曲目 |  |  |
+| 2曲目 |  |  |
+| 3曲目 |  |  |
+
+p{color:darkblue}. +コース+
+| 1曲目 |  |  |
+| 2曲目 |  |  |
+| 3曲目 |  |  |
+
+p{color:darkblue}. +コース+
+| 1曲目 |  |  |
+| 2曲目 |  |  |
+| 3曲目 |  |  |
+
+p{color:darkblue}. +コース+
+| 1曲目 |  |  |
+| 2曲目 |  |  |
+| 3曲目 |  |  |
+
+
+h2. 決勝ラウンド課題曲
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
