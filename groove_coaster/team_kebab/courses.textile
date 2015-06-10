@@ -44,15 +44,15 @@ p{color:darkblue}. +Another Infinityコース+
 
 p{color:darkblue}. +月夜コース+
 
-| 1曲目 | ピアノ・ソナタ「月光」第三楽章 |
+| 1曲目 | 如月アテンション |
 | 2曲目 | Cruel Moon NuMIX |
-| 3曲目 | 如月アテンション |
+| 3曲目 | ピアノ・ソナタ「月光」第三楽章 |
 
 p{color:darkblue}. +ダラバーコース+
 
 | 1曲目 | Good-bye my earth |
-| 2曲目 | Hello 31337 |
-| 3曲目 | The world of spirit |
+| 2曲目 | The world of spirit |
+| 3曲目 | Hello 31337 |
 
 p{color:darkblue}. +かにづくしコース+
 
@@ -66,7 +66,7 @@ p{color:darkblue}. +グルコスのアイドルコース+
 | 2曲目 | DX超性能フルメタル少女 |
 | 3曲目 | カンフーガール＝ロンメイ |
 
-p{color:darkblue}. +矢鴇つかささんコース+
+p{color:darkblue}. +矢鴇（やとき）つかささんコース+
 
 | 1曲目 | HB-axeleration |
 | 2曲目 | Geometric City ==-GC Remix-== |
@@ -76,7 +76,7 @@ p{color:darkblue}. +ちょっと早い真夏コース+
 
 | 1曲目 | 夏祭り |
 | 2曲目 | Maimai Sound Beats |
-| 3曲目 | サマータイムメモリー |
+| 3曲目 | サマータイムレコード |
 
 p{color:darkblue}. +懐かしのIOSISフラッシュコース+
 
@@ -87,51 +87,6 @@ p{color:darkblue}. +懐かしのIOSISフラッシュコース+
 p{color:darkblue}. +忍殺コース+
 
 | 1曲目 | 違法行為 |
-| 2曲目 | ならく |
-| 3曲目 | ラストガール |
+| 2曲目 | naraku within |
+| 3曲目 | ラストガール・スタンディング |
 
-p{color:darkblue}. +コース+
-
-| 1曲目 |  |
-| 2曲目 |  |
-| 3曲目 |  |
-
-p{color:darkblue}. +コース+
-
-| 1曲目 |  |
-| 2曲目 |  |
-| 3曲目 |  |
-
-p{color:darkblue}. +コース+
-
-| 1曲目 |  |
-| 2曲目 |  |
-| 3曲目 |  |
-
-p{color:darkblue}. +コース+
-
-| 1曲目 |  |
-| 2曲目 |  |
-| 3曲目 |  |
-
-p{color:darkblue}. +コース+
-
-| 1曲目 |  |
-| 2曲目 |  |
-| 3曲目 |  |
-
-p{color:darkblue}. +コース+
-
-| 1曲目 |  |
-| 2曲目 |  |
-| 3曲目 |  |
-
-
-h2. 決勝ラウンド課題曲
-
-| 曲名 | 難易度 |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |

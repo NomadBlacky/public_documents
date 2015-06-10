@@ -130,7 +130,7 @@ h2{color:darkgreen}. 決勝戦
 * 「TOTAL SCORE」の合計が高い人が優勝となります。
 * アイテムは「ALONE」のみ任意で使用可能です。
 
-| 1曲目 | Jupiter II Europa | EXTRA |
+| 1曲目 | アウターサイエンス | HARD |
 | 2曲目 | DX超性能フルメタル少女 | HARD |
 | 3曲目 | Got more raves?  | HARD |
 
